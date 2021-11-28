@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\assignment3\chapter6\number13\obj\Debug\net5.0\number13.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\assignment3\chapter6\number13\obj\Debug\net5.0\number13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\assignment3\chapter6\number13\obj\Debug\net5.0\number13.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\assignment3\chapter6\number13\obj\Debug\net5.0\number13.AssemblyInfo.cs
+C:\Users\pc\Desktop\assignment3\chapter6\number13\obj\Debug\net5.0\number13.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\assignment3\chapter6\number13\bin\Debug\net5.0\number13.exe
+C:\Users\pc\Desktop\assignment3\chapter6\number13\bin\Debug\net5.0\number13.deps.json
+C:\Users\pc\Desktop\assignment3\chapter6\number13\bin\Debug\net5.0\number13.runtimeconfig.json
+C:\Users\pc\Desktop\assignment3\chapter6\number13\bin\Debug\net5.0\number13.runtimeconfig.dev.json
+C:\Users\pc\Desktop\assignment3\chapter6\number13\bin\Debug\net5.0\number13.dll
+C:\Users\pc\Desktop\assignment3\chapter6\number13\bin\Debug\net5.0\ref\number13.dll
+C:\Users\pc\Desktop\assignment3\chapter6\number13\bin\Debug\net5.0\number13.pdb
+C:\Users\pc\Desktop\assignment3\chapter6\number13\obj\Debug\net5.0\number13.dll
+C:\Users\pc\Desktop\assignment3\chapter6\number13\obj\Debug\net5.0\ref\number13.dll
+C:\Users\pc\Desktop\assignment3\chapter6\number13\obj\Debug\net5.0\number13.pdb
+C:\Users\pc\Desktop\assignment3\chapter6\number13\obj\Debug\net5.0\number13.genruntimeconfig.cache

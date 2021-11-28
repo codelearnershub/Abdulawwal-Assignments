@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\bin\Debug\net5.0\number8.exe
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\bin\Debug\net5.0\number8.deps.json
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\bin\Debug\net5.0\number8.runtimeconfig.json
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\bin\Debug\net5.0\number8.runtimeconfig.dev.json
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\bin\Debug\net5.0\number8.dll
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\bin\Debug\net5.0\ref\number8.dll
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\bin\Debug\net5.0\number8.pdb
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\obj\Debug\net5.0\number8.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\obj\Debug\net5.0\number8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\obj\Debug\net5.0\number8.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\obj\Debug\net5.0\number8.AssemblyInfo.cs
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\obj\Debug\net5.0\number8.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\obj\Debug\net5.0\number8.dll
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\obj\Debug\net5.0\ref\number8.dll
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\obj\Debug\net5.0\number8.pdb
+C:\Users\pc\Desktop\assignment3\weekly assessment\number8\obj\Debug\net5.0\number8.genruntimeconfig.cache

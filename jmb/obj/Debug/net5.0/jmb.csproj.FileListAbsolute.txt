@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\jmb\bin\Debug\net5.0\jmb.exe
+C:\Users\pc\Desktop\jmb\bin\Debug\net5.0\jmb.deps.json
+C:\Users\pc\Desktop\jmb\bin\Debug\net5.0\jmb.runtimeconfig.json
+C:\Users\pc\Desktop\jmb\bin\Debug\net5.0\jmb.runtimeconfig.dev.json
+C:\Users\pc\Desktop\jmb\bin\Debug\net5.0\jmb.dll
+C:\Users\pc\Desktop\jmb\bin\Debug\net5.0\ref\jmb.dll
+C:\Users\pc\Desktop\jmb\bin\Debug\net5.0\jmb.pdb
+C:\Users\pc\Desktop\jmb\obj\Debug\net5.0\jmb.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\jmb\obj\Debug\net5.0\jmb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\jmb\obj\Debug\net5.0\jmb.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\jmb\obj\Debug\net5.0\jmb.AssemblyInfo.cs
+C:\Users\pc\Desktop\jmb\obj\Debug\net5.0\jmb.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\jmb\obj\Debug\net5.0\jmb.dll
+C:\Users\pc\Desktop\jmb\obj\Debug\net5.0\ref\jmb.dll
+C:\Users\pc\Desktop\jmb\obj\Debug\net5.0\jmb.pdb
+C:\Users\pc\Desktop\jmb\obj\Debug\net5.0\jmb.genruntimeconfig.cache

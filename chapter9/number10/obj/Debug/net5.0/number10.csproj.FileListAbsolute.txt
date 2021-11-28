@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\chapter9\number10\bin\Debug\net5.0\number10.exe
+C:\Users\pc\Desktop\chapter9\number10\bin\Debug\net5.0\number10.deps.json
+C:\Users\pc\Desktop\chapter9\number10\bin\Debug\net5.0\number10.runtimeconfig.json
+C:\Users\pc\Desktop\chapter9\number10\bin\Debug\net5.0\number10.runtimeconfig.dev.json
+C:\Users\pc\Desktop\chapter9\number10\bin\Debug\net5.0\number10.dll
+C:\Users\pc\Desktop\chapter9\number10\bin\Debug\net5.0\ref\number10.dll
+C:\Users\pc\Desktop\chapter9\number10\bin\Debug\net5.0\number10.pdb
+C:\Users\pc\Desktop\chapter9\number10\obj\Debug\net5.0\number10.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\chapter9\number10\obj\Debug\net5.0\number10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\chapter9\number10\obj\Debug\net5.0\number10.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\chapter9\number10\obj\Debug\net5.0\number10.AssemblyInfo.cs
+C:\Users\pc\Desktop\chapter9\number10\obj\Debug\net5.0\number10.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\chapter9\number10\obj\Debug\net5.0\number10.dll
+C:\Users\pc\Desktop\chapter9\number10\obj\Debug\net5.0\ref\number10.dll
+C:\Users\pc\Desktop\chapter9\number10\obj\Debug\net5.0\number10.pdb
+C:\Users\pc\Desktop\chapter9\number10\obj\Debug\net5.0\number10.genruntimeconfig.cache

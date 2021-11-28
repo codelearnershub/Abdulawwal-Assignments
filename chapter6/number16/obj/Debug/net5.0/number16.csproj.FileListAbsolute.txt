@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\assignment3\chapter6\number16\bin\Debug\net5.0\number16.exe
+C:\Users\pc\Desktop\assignment3\chapter6\number16\bin\Debug\net5.0\number16.deps.json
+C:\Users\pc\Desktop\assignment3\chapter6\number16\bin\Debug\net5.0\number16.runtimeconfig.json
+C:\Users\pc\Desktop\assignment3\chapter6\number16\bin\Debug\net5.0\number16.runtimeconfig.dev.json
+C:\Users\pc\Desktop\assignment3\chapter6\number16\bin\Debug\net5.0\number16.dll
+C:\Users\pc\Desktop\assignment3\chapter6\number16\bin\Debug\net5.0\ref\number16.dll
+C:\Users\pc\Desktop\assignment3\chapter6\number16\bin\Debug\net5.0\number16.pdb
+C:\Users\pc\Desktop\assignment3\chapter6\number16\obj\Debug\net5.0\number16.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\assignment3\chapter6\number16\obj\Debug\net5.0\number16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\assignment3\chapter6\number16\obj\Debug\net5.0\number16.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\assignment3\chapter6\number16\obj\Debug\net5.0\number16.AssemblyInfo.cs
+C:\Users\pc\Desktop\assignment3\chapter6\number16\obj\Debug\net5.0\number16.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\assignment3\chapter6\number16\obj\Debug\net5.0\number16.dll
+C:\Users\pc\Desktop\assignment3\chapter6\number16\obj\Debug\net5.0\ref\number16.dll
+C:\Users\pc\Desktop\assignment3\chapter6\number16\obj\Debug\net5.0\number16.pdb
+C:\Users\pc\Desktop\assignment3\chapter6\number16\obj\Debug\net5.0\number16.genruntimeconfig.cache

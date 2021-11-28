@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\obj\Debug\net5.0\number18.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\obj\Debug\net5.0\number18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\obj\Debug\net5.0\number18.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\obj\Debug\net5.0\number18.AssemblyInfo.cs
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\obj\Debug\net5.0\number18.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\bin\Debug\net5.0\number18.exe
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\bin\Debug\net5.0\number18.deps.json
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\bin\Debug\net5.0\number18.runtimeconfig.json
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\bin\Debug\net5.0\number18.runtimeconfig.dev.json
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\bin\Debug\net5.0\number18.dll
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\bin\Debug\net5.0\ref\number18.dll
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\bin\Debug\net5.0\number18.pdb
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\obj\Debug\net5.0\number18.dll
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\obj\Debug\net5.0\ref\number18.dll
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\obj\Debug\net5.0\number18.pdb
+C:\Users\pc\Desktop\assignment3\weekly assessment\number18\obj\Debug\net5.0\number18.genruntimeconfig.cache
