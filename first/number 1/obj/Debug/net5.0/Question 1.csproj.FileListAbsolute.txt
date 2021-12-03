@@ -1,0 +1,48 @@
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\obj\Debug\net5.0\Question 1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\obj\Debug\net5.0\Question 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\obj\Debug\net5.0\Question 1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\obj\Debug\net5.0\Question 1.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\obj\Debug\net5.0\Question 1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\bin\Debug\net5.0\Question 1.exe
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\bin\Debug\net5.0\Question 1.deps.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\bin\Debug\net5.0\Question 1.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\bin\Debug\net5.0\Question 1.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\bin\Debug\net5.0\Question 1.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\bin\Debug\net5.0\ref\Question 1.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\bin\Debug\net5.0\Question 1.pdb
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\obj\Debug\net5.0\Question 1.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\obj\Debug\net5.0\ref\Question 1.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\obj\Debug\net5.0\Question 1.pdb
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 1\obj\Debug\net5.0\Question 1.genruntimeconfig.cache
+C:\Users\pc\Desktop\Assignment\number 1\bin\Debug\net5.0\Question 1.exe
+C:\Users\pc\Desktop\Assignment\number 1\bin\Debug\net5.0\Question 1.deps.json
+C:\Users\pc\Desktop\Assignment\number 1\bin\Debug\net5.0\Question 1.runtimeconfig.json
+C:\Users\pc\Desktop\Assignment\number 1\bin\Debug\net5.0\Question 1.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Assignment\number 1\bin\Debug\net5.0\Question 1.dll
+C:\Users\pc\Desktop\Assignment\number 1\bin\Debug\net5.0\ref\Question 1.dll
+C:\Users\pc\Desktop\Assignment\number 1\bin\Debug\net5.0\Question 1.pdb
+C:\Users\pc\Desktop\Assignment\number 1\obj\Debug\net5.0\Question 1.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Assignment\number 1\obj\Debug\net5.0\Question 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Assignment\number 1\obj\Debug\net5.0\Question 1.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Assignment\number 1\obj\Debug\net5.0\Question 1.AssemblyInfo.cs
+C:\Users\pc\Desktop\Assignment\number 1\obj\Debug\net5.0\Question 1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Assignment\number 1\obj\Debug\net5.0\Question 1.dll
+C:\Users\pc\Desktop\Assignment\number 1\obj\Debug\net5.0\ref\Question 1.dll
+C:\Users\pc\Desktop\Assignment\number 1\obj\Debug\net5.0\Question 1.pdb
+C:\Users\pc\Desktop\Assignment\number 1\obj\Debug\net5.0\Question 1.genruntimeconfig.cache
+C:\Users\pc\Desktop\weekend\first\number 1\bin\Debug\net5.0\Question 1.exe
+C:\Users\pc\Desktop\weekend\first\number 1\bin\Debug\net5.0\Question 1.deps.json
+C:\Users\pc\Desktop\weekend\first\number 1\bin\Debug\net5.0\Question 1.runtimeconfig.json
+C:\Users\pc\Desktop\weekend\first\number 1\bin\Debug\net5.0\Question 1.runtimeconfig.dev.json
+C:\Users\pc\Desktop\weekend\first\number 1\bin\Debug\net5.0\Question 1.dll
+C:\Users\pc\Desktop\weekend\first\number 1\bin\Debug\net5.0\ref\Question 1.dll
+C:\Users\pc\Desktop\weekend\first\number 1\bin\Debug\net5.0\Question 1.pdb
+C:\Users\pc\Desktop\weekend\first\number 1\obj\Debug\net5.0\Question 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\weekend\first\number 1\obj\Debug\net5.0\Question 1.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\weekend\first\number 1\obj\Debug\net5.0\Question 1.AssemblyInfo.cs
+C:\Users\pc\Desktop\weekend\first\number 1\obj\Debug\net5.0\Question 1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\weekend\first\number 1\obj\Debug\net5.0\Question 1.dll
+C:\Users\pc\Desktop\weekend\first\number 1\obj\Debug\net5.0\ref\Question 1.dll
+C:\Users\pc\Desktop\weekend\first\number 1\obj\Debug\net5.0\Question 1.pdb
+C:\Users\pc\Desktop\weekend\first\number 1\obj\Debug\net5.0\Question 1.genruntimeconfig.cache
+C:\Users\pc\Desktop\weekend\first\number 1\obj\Debug\net5.0\Question 1.csprojAssemblyReference.cache

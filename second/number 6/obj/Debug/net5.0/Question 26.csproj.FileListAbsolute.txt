@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\obj\Debug\net5.0\Question 26.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\obj\Debug\net5.0\Question 26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\obj\Debug\net5.0\Question 26.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\obj\Debug\net5.0\Question 26.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\obj\Debug\net5.0\Question 26.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\bin\Debug\net5.0\Question 26.exe
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\bin\Debug\net5.0\Question 26.deps.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\bin\Debug\net5.0\Question 26.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\bin\Debug\net5.0\Question 26.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\bin\Debug\net5.0\Question 26.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\bin\Debug\net5.0\ref\Question 26.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\bin\Debug\net5.0\Question 26.pdb
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\obj\Debug\net5.0\Question 26.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\obj\Debug\net5.0\ref\Question 26.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\obj\Debug\net5.0\Question 26.pdb
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 26\obj\Debug\net5.0\Question 26.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\bin\Debug\net5.0\Question 3RETRY.exe
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\bin\Debug\net5.0\Question 3RETRY.deps.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\bin\Debug\net5.0\Question 3RETRY.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\bin\Debug\net5.0\Question 3RETRY.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\bin\Debug\net5.0\Question 3RETRY.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\bin\Debug\net5.0\ref\Question 3RETRY.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\bin\Debug\net5.0\Question 3RETRY.pdb
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\obj\Debug\net5.0\Question 3RETRY.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\obj\Debug\net5.0\Question 3RETRY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\obj\Debug\net5.0\Question 3RETRY.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\obj\Debug\net5.0\Question 3RETRY.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\obj\Debug\net5.0\Question 3RETRY.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\obj\Debug\net5.0\Question 3RETRY.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\obj\Debug\net5.0\ref\Question 3RETRY.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\obj\Debug\net5.0\Question 3RETRY.pdb
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Assignment\Question 3RETRY\obj\Debug\net5.0\Question 3RETRY.genruntimeconfig.cache
