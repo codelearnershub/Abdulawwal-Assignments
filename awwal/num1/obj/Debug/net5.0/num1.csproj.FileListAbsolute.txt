@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\awwal\num1\bin\Debug\net5.0\num1.exe
+C:\Users\pc\Desktop\awwal\num1\bin\Debug\net5.0\num1.deps.json
+C:\Users\pc\Desktop\awwal\num1\bin\Debug\net5.0\num1.runtimeconfig.json
+C:\Users\pc\Desktop\awwal\num1\bin\Debug\net5.0\num1.runtimeconfig.dev.json
+C:\Users\pc\Desktop\awwal\num1\bin\Debug\net5.0\num1.dll
+C:\Users\pc\Desktop\awwal\num1\bin\Debug\net5.0\ref\num1.dll
+C:\Users\pc\Desktop\awwal\num1\bin\Debug\net5.0\num1.pdb
+C:\Users\pc\Desktop\awwal\num1\obj\Debug\net5.0\num1.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\awwal\num1\obj\Debug\net5.0\num1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\awwal\num1\obj\Debug\net5.0\num1.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\awwal\num1\obj\Debug\net5.0\num1.AssemblyInfo.cs
+C:\Users\pc\Desktop\awwal\num1\obj\Debug\net5.0\num1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\awwal\num1\obj\Debug\net5.0\num1.dll
+C:\Users\pc\Desktop\awwal\num1\obj\Debug\net5.0\ref\num1.dll
+C:\Users\pc\Desktop\awwal\num1\obj\Debug\net5.0\num1.pdb
+C:\Users\pc\Desktop\awwal\num1\obj\Debug\net5.0\num1.genruntimeconfig.cache
