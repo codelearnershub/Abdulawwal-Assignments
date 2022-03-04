@@ -6,7 +6,7 @@ namespace number2
     {
         static void Main(string[] args)
         {
-            string a = "DDUUUUDD";
+            string a = "DDUUDDUDUUUD";
             Console.WriteLine($"The number of steps is {a.Length}");
             Console.WriteLine($"The number of valley is {Valley(a)}");
         }

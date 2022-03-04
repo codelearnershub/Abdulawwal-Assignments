@@ -28,13 +28,13 @@ namespace Question_2
                         tailCount++;
                     }
 
-                    Console.WriteLine(" Enter No to stop the game: ");
-                    string choice = Console.ReadLine();
+                    // Console.WriteLine(" Enter No to stop the game: ");
+                    // string choice = Console.ReadLine();
 
-                    if(choice == "No")
-                    {
-                        break;
-                    }
+                    // if(choice == "No")
+                    // {
+                    //     break;
+                    // }
 
                     
                 }

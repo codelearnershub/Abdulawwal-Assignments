@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\awwal\\number 3\\number 3.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Documents\\programming\\oluwaseun\\awwal challenge\\number3\\number 3.csproj",
       "projectName": "number 3",
-      "projectPath": "C:\\Users\\pc\\Desktop\\awwal\\number 3\\number 3.csproj",
+      "projectPath": "C:\\Users\\pc\\Documents\\programming\\oluwaseun\\awwal challenge\\number3\\number 3.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\awwal\\number 3\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Documents\\programming\\oluwaseun\\awwal challenge\\number3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

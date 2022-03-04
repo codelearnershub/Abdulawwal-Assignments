@@ -6,9 +6,9 @@ namespace number_3
     {
         static void Main(string[] args)
         {
-            int[] heights = { 1, 2, 3, 3, 2 };
+            int[] heights = { 1, 6, 3, 5, 2 };
             Console.WriteLine($"number of huddles are {heights.Length} and");
-            Console.WriteLine(HurdleRace(1, heights));
+            Console.WriteLine(HurdleRace(4, heights));
         }
 
         public static int HurdleRace(int k, int[] hurdles)
